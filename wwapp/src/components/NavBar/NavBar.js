@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import Owl from './WWK_Logo_Large.png';
 
+// test
 function NavBar({logInAccess, handleLogOut}) {
   //add a link for each component in the navbar:white_check_mark:
   //set up path for each component:white_check_mark:
